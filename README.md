@@ -1,6 +1,6 @@
 Killer Zombies
 
-link do game: https://game-shooter-a4glehki6-ianaugustos-projects.vercel.app/
+link do game: [https://game-shooter-a4glehki6-ianaugustos-projects.vercel.app/](https://game-shooter.vercel.app/)
 
 Objetivo, é caçar a horda de zombies.
 
